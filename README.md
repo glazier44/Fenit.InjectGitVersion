@@ -7,4 +7,4 @@ Inject Git Version to your .NET project
 	- Solution Dir
 	- Project Dir
 3. Edit AssemblyInfo_template.cs according to your project data (Properties folder)
-4. Edit Build Event in your main csproj- add text from BuildEvent.txt. Chech path!!!
+4. Edit Build Event in your main csproj- add text from BuildEvent.txt. Check path!!!
