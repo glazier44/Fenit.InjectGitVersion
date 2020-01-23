@@ -1,1 +1,5 @@
 powershell -ExecutionPolicy ByPass -File  $(SolutionDir)\BuildScripts\InjectGitVersion.ps1 $(ProjectDir)
+
+OR
+
+powershell -ExecutionPolicy ByPass -File  $(ProjectDir)\BuildScripts\InjectGitVersion.ps1 $(ProjectDir)
